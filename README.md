@@ -114,15 +114,6 @@ Run Locally
   streamlit run Introduction.py
 ```
 
-## Contributions
-Chapter Lead: Louis Jefferson Zhang
-
-Technical Lead: Sudhanshu Rastogi
-
-Collaborators:
-- Mohamed Chahed
-- Mansoor Baig
-- Nishtha Bhattacharjee
 
 ## Project Archives
 Navigate to [archive branch](https://github.com/OmdenaAI/smart-traffic-system-JKT/tree/archive) to look into some project development notebooks.
